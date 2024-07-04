@@ -1,2 +1,2 @@
-print("primer ejercicio en clase")
+print("ejercicio en clase funciones")
 print("funcion print")
