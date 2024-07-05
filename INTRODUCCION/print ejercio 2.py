@@ -1,1 +1,1 @@
-print("ejercicio numero 2")
+print("estudiar con python total es super divertido")
