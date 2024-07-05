@@ -1,1 +1,6 @@
 print("me encanta estudiar python")
+print("NICOLAS"+" ""CAÑIZARES")
+print("me llamo \"nicolas\"")
+print("Esta es una linea \nY esta es otra linea")
+print("\tEsta es la tercera linea ")
+print("this isn\"t a number")
